@@ -1,7 +1,7 @@
 # netease_app
 
 > a netease you-163 app
-> vue + vant + node + express
+> vue + vant + express
 
 ## Build Setup
 
